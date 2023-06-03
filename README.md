@@ -1,2 +1,1 @@
-# DSA
-[Data Structures &amp; Algorithms]: 
+# [ Data Structures and Algorithms ] 
