@@ -1,16 +1,40 @@
-# DSA/Algorithms/Searching/Linear Search
+# Linear Search
 
-- [Introduction](#introduction)
-- [Algorithm](#algorithm)
-- [Pseudocode](#pseudocode)
-- [Implementation](#implementation)
-- [Time and Space Complexity](#time-and-space-complexity)
-- [Best Practices](#best-practices)
-- [Optimization](#optimization)
-- [Examples and Practice](#examples-and-practice)
-- [Conclusion](#conclusion)
-- [Additional Resources](#additional-resources)
+- [Introduction](Introduction.md)
+- [Algorithm](Algorithm.md)
+- [Pseudocode](Pseudocode.md)
+- [Implementation](Implementation.md)
+- [Time and Space Complexity](TimeAndSpaceComplexity.md)
+- [Best Practices](BestPractices.md)
+- [Optimization](Optimization.md)
+- [Examples and Practice](ExamplesAndPractice.md)
+- [Conclusion](Conclusion.md)
+- [Additional Resources](AdditionalResources.md)
+
 
 <br>
 
 ### Learning Structure
+```
+DSA/Algorithms/Searching/Linear Search
+├── Introduction
+│   └── Definition and importance of searching algorithms
+├── Algorithm
+│   └── Step-by-step explanation of linear search
+├── Pseudocode
+│   └── Language-agnostic pseudocode for linear search
+├── Implementation
+│   └── Programming language-specific code examples
+├── Time and Space Complexity
+│   └── Analysis of time and space complexity
+├── Best Practices
+│   └── Tips for using linear search effectively
+├── Optimization
+│   └── Techniques for optimizing linear search
+├── Examples and Practice
+│   └── Real-world scenarios and practice problems
+├── Conclusion
+│   └── Recap of key points
+└── Additional Resources
+    └── References and further learning materials
+```
