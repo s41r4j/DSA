@@ -34,6 +34,6 @@ Understanding the definition and importance of searching algorithms lays the fou
 <br>
 
 ## GOTO
-- [Follow Learning Path]()
+- [Follow Learning Path](Algorithm.md)
 - [DSA/Algorithms/Searching/Linear Search](README.md)
 
