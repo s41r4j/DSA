@@ -4,7 +4,7 @@ Linear search, also known as sequential search, is a simple and straightforward 
 
 <br>
 
-1. **Input**: The linear search algorithm takes two inputs: the target element to be searched for and the collection of data in which the search will be performed.
+1. **Input**: The linear search algorithm takes two inputs, the target element to be searched for and the collection of data in which the search will be performed.
 
 2. **Start at the Beginning**: The search begins by setting the initial position to the first element of the data set.
 
