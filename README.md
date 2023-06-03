@@ -9,15 +9,46 @@ The world of computer science relies heavily on efficient data organization and 
 This repository serves as a comprehensive resource for learning and implementing various data structures and algorithms. Whether you are a beginner learning the basics or an experienced developer looking for advanced concepts, you'll find valuable information here.
 
 
+
 <br>
 
-### [Data Structures](./Data Structures/)
+### [Repository Structure](STRUCTURE.md)
 
-The `Data Structures` directory contains implementations and explanations of various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. Each data structure is accompanied by detailed explanations, code examples, and best practices.
+This repository follows a structured organization to help you navigate and explore the various data structures and algorithms implementations.
 
-### [Algorithms](./Algorithms/)
+The repository structure is as follows:
 
-The `Algorithms` directory contains implementations and explanations of various algorithms like searching, sorting, graph traversal, dynamic programming, and more. Each algorithm is explained step-by-step with pseudocode, followed by programming language-specific code examples.
+- [Data Structures](./Data%20Structures)
+    - The `Data Structures` directory contains implementations and explanations of various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. Each data structure is accompanied by detailed explanations, code examples, and best practices.
+
+- [Algorithms](./Algorithms)
+    - The `Algorithms` directory contains implementations and explanations of various algorithms like searching, sorting, graph traversal, dynamic programming, and more. Each algorithm is explained step-by-step with pseudocode, followed by programming language-specific code examples.
+
+- [Additional Resources](./Additional%20Resources)
+    - This directory contains additional resources, references, and learning materials related to data structures and algorithms.
+
+Feel free to browse through the directories and explore the code implementations and explanations for each topic.
+
+<br>
+
+### [Learning Path](LEARNING_PATH.md)
+
+This repository provides a structured learning path to help you master data structures and algorithms concepts. The suggested learning path is as follows:
+
+1. Start by understanding the basic concepts of data structures and algorithms.
+2. Explore the `Data Structures` directory and choose a topic you want to learn.
+3. Go through the implementation code, explanations, and examples provided for that data structure.
+4. Practice implementing the data structure in your preferred programming language.
+5. Once you are comfortable with a data structure, move on to the `Algorithms` directory.
+6. Choose an algorithm topic and go through its implementation code, explanations, and examples.
+7. Practice implementing the algorithm and solving related problems.
+8. Repeat steps 2-7 for other data structures and algorithms of your interest.
+
+By following this learning path, you can gradually build your knowledge and skills in data structures and algorithms.
+
+<br>
+
+#### Feel free to refer to the [`STRUCTURE.md`](./STRUCTURE.md) and [`LEARNING_PATH.md`](./LEARNING_PATH.md) files in this repository to get a better understanding of the repository structure and suggested learning path.
 
 
 <br>
