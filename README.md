@@ -8,6 +8,9 @@ The world of computer science relies heavily on efficient data organization and 
 
 This repository serves as a comprehensive resource for learning and implementing various data structures and algorithms. Whether you are a beginner learning the basics or an experienced developer looking for advanced concepts, you'll find valuable information here.
 
+<br>
+
+___Feel free to refer to the [`STRUCTURE.md`](./STRUCTURE.md) and [`LEARNING_PATH.md`](./LEARNING_PATH.md) files in this repository to get a better understanding of the repository structure and suggested learning path.___
 
 
 <br>
@@ -46,9 +49,6 @@ This repository provides a structured learning path to help you master data stru
 
 By following this learning path, you can gradually build your knowledge and skills in data structures and algorithms.
 
-<br>
-
-#### Feel free to refer to the [`STRUCTURE.md`](./STRUCTURE.md) and [`LEARNING_PATH.md`](./LEARNING_PATH.md) files in this repository to get a better understanding of the repository structure and suggested learning path.
 
 
 <br>
