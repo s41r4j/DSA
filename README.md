@@ -10,12 +10,12 @@ This repository serves as a comprehensive resource for learning and implementing
 
 <br>
 
-___Feel free to refer to the [`STRUCTURE.md`](./STRUCTURE.md) and [`LEARNING_PATH.md`](./LEARNING_PATH.md) files in this repository to get a better understanding of the repository structure and suggested learning path.___
+_Feel free to refer to the directory tree of [`REPOSITORY STRUCTURE`](./STRUCTURE.md) and [`LEARNING PATH`](./LEARNING_PATH.md) in this repository to get a better understanding of the repository structure and suggested learning path._
 
 
 <br>
 
-### [Repository Structure](STRUCTURE.md)
+## [Repository Structure](STRUCTURE.md)
 
 This repository follows a structured organization to help you navigate and explore the various data structures and algorithms implementations.
 
@@ -34,7 +34,7 @@ Feel free to browse through the directories and explore the code implementations
 
 <br>
 
-### [Learning Path](LEARNING_PATH.md)
+## [Learning Path](LEARNING_PATH.md)
 
 This repository provides a structured learning path to help you master data structures and algorithms concepts. The suggested learning path is as follows:
 
