@@ -10,7 +10,6 @@ DSA
 │   │   ├── Bit Array
 │   │   ├── Circular Array
 │   │   └── Jagged Array
-│   ├── String
 │   ├── Linked List
 │   │   ├── Singly Linked List
 │   │   ├── Doubly Linked List
@@ -36,6 +35,58 @@ DSA
 │   │   ├── Fibonacci Heap
 │   │   └── Binomial Heap
 │   ├── Hash Table
+│   │   ├── Hash Functions
+│   │   │   ├── Division Method
+│   │   │   ├── Multiplication Method
+│   │   │   ├── Universal Hashing
+│   │   │   └── Cryptographic Hash Functions
+│   │   ├── Collision Resolution Techniques
+│   │   │   ├── Separate Chaining
+│   │   │   │   ├── Linked List Chaining
+│   │   │   │   ├── Dynamic Array Chaining
+│   │   │   │   ├── Binary Search Tree Chaining
+│   │   │   │   └── AVL Tree Chaining
+│   │   │   ├── Open Addressing
+│   │   │   │   ├── Linear Probing
+│   │   │   │   ├── Quadratic Probing
+│   │   │   │   ├── Double Hashing
+│   │   │   │   ├── Cuckoo Hashing
+│   │   │   │   ├── Robin Hood Hashing
+│   │   │   │   └── Hopscotch Hashing
+│   │   │   └── Coalesced Hashing
+│   │   ├── Hash Table Implementations
+│   │   │   ├── Array-based Hash Tables
+│   │   │   │   ├── Static Array-based Hash Tables
+│   │   │   │   ├── Dynamic Array-based Hash Tables
+│   │   │   │   └── Bloom Filters
+│   │   │   ├── Linked List-based Hash Tables
+│   │   │   ├── Balanced Tree-based Hash Tables
+│   │   │   │   ├── Binary Search Tree-based Hash Tables
+│   │   │   │   ├── AVL Tree-based Hash Tables
+│   │   │   │   └── Red-Black Tree-based Hash Tables
+│   │   │   ├── Hash Table with Cuckoo Hashing
+│   │   │   └── Hash Table with Robin Hood Hashing
+│   │   ├── Hash Table Operations and Algorithms
+│   │   │   ├── Insertion
+│   │   │   ├── Deletion
+│   │   │   ├── Search
+│   │   │   ├── Resizing
+│   │   │   ├── Load Factor Management
+│   │   │   ├── Collision Handling Strategies
+│   │   │   ├── Hash Table Performance Analysis
+│   │   │   └── Hash Table Applications
+│   │   │       ├── Spell Checkers
+│   │   │       ├── Databases
+│   │   │       ├── Caches
+│   │   │       ├── Symbol Tables
+│   │   │       ├── Counting Frequencies
+│   │   │       └── Data Deduplication
+│   │   └── Hash Table Variations
+│   │       ├── Perfect Hashing
+│   │       ├── Cuckoo Filters
+│   │       ├── Count-Min Sketch
+│   │       ├── Counting Bloom Filters
+│   │       └── Scalable Bloom Filters
 │   ├── Tree Data Structures
 │   │   ├── Binary Tree
 │   │   │   ├── Binary Search Tree
