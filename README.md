@@ -4,19 +4,33 @@
 DSA
 ├── Data Structures
 │   ├── Array
+│   │   ├── Static Array
+│   │   ├── Dynamic Array
+│   │   ├── Sparse Array
+│   │   ├── Bit Array
+│   │   ├── Circular Array
+│   │   └── Jagged Array
 │   ├── String
 │   ├── Linked List
 │   │   ├── Singly Linked List
 │   │   ├── Doubly Linked List
 │   │   ├── Circular Linked List
 │   │   └── Skip List
-│   ├── Stack
+│   ├── Stacks
+│   │   ├── Array-based Stack
+│   │   ├── Linked List-based Stack
+│   │   ├── Dynamic Stack
+│   │   ├── Undo Stack
+│   │   ├── Expression Evaluation Stack
+│   │   └── Minimum Element Stack
 │   ├── Queue
 │   │   ├── Queue (Array-based)
 │   │   ├── Queue (Linked List-based)
 │   │   ├── Priority Queue
 │   │   ├── Double-ended Queue (Deque)
 │   │   └── Circular Queue
+│   │   ├── Bounded Priority Queue
+│   │   └── Concurrent Queue
 │   ├── Heap
 │   │   ├── Binary Heap
 │   │   ├── Fibonacci Heap
@@ -98,6 +112,12 @@ DSA
 │   │   ├── Greedy Scheduling
 │   │   └── Greedy Set Cover
 │   ├── Recursion
+│   │   ├── Tail Recursion
+│   │   ├── Head Recursion
+│   │   ├── Tree Recursion
+│   │   ├── Indirect Recursion
+│   │   ├── Nested Recursion
+│   │   └── Mutual Recursion
 │   ├── Backtracking Algorithms
 │   │   ├── N-Queens Problem
 │   │   ├── Sudoku Solver
@@ -164,8 +184,24 @@ DSA
 │   │   ├── Detecting Duplicates
 │   │   ├── Finding Odd/Even Occurrences
 │   │   └── Bitwise Tricks
+│   ├── Graph Algorithms
+│   │   ├── Depth-First Search (DFS)
+│   │   ├── Breadth-First Search (BFS)
+│   │   ├── Dijkstra's Algorithm
+│   │   ├── Bellman-Ford Algorithm
+│   │   ├── Kruskal's Algorithm
+│   │   ├── Prim's Algorithm
+│   │   ├── Floyd-Warshall Algorithm
+│   │   ├── Topological Sorting
+│   │   ├── Minimum Spanning Tree (MST)
+│   │   ├── Strongly Connected Components (SCC)
+│   │   ├── Articulation Points
+│   │   └── Bridges
 │   ├── Randomized Algorithms
 │   ├── Branch and Bound Algorithms
+│   ├── Randomized Algorithms
+│   ├── Approximation Algorithms
+│   └── Cryptographic Algorithms
 │   └── Approximation Algorithms
 └── Practice Problems on DSA
 ```
