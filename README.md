@@ -38,16 +38,23 @@ DSA
 │   ├── Hash Table
 │   ├── Tree Data Structures
 │   │   ├── Binary Tree
-│   │   ├── Binary Search Tree
-│   │   ├── AVL Tree
-│   │   ├── Red-Black Tree
-│   │   ├── B-tree
-│   │   ├── Splay Tree
-│   │   ├── Trie
+│   │   │   ├── Binary Search Tree
+│   │   │   ├── AVL Tree
+│   │   │   ├── Red-Black Tree
+│   │   │   ├── B-Tree
+│   │   │   ├── Splay Tree
+│   │   │   ├── Ternary Search Tree
+│   │   │   └── Threaded Binary Tree
 │   │   ├── Segment Tree
-│   │   ├── Fenwick Tree (Binary Indexed Tree)
 │   │   ├── Disjoint Set (Union-Find)
-│   │   └── Suffix Tree
+│   │   ├── Heap
+│   │   ├── Trie (Prefix Tree)
+│   │   ├── Fenwick Tree (Binary Indexed Tree)
+│   │   ├── Suffix Tree
+│   │   ├── Quadtree
+│   │   ├── Octree
+│   │   ├── KD-Tree
+│   │   └── Bounding Volume Hierarchy
 │   └── Graph Data Structure
 │       ├── Graph Representation
 │       ├── Graph Traversals
@@ -71,7 +78,7 @@ DSA
 │       ├── Minimum Cut
 │       └── Travelling Salesman Problem (TSP)
 ├── Algorithms
-│   ├── Searching Algorithms
+│   ├── Searching
 │   │   ├── Linear Search
 │   │   ├── Binary Search
 │   │   ├── Interpolation Search
@@ -79,7 +86,7 @@ DSA
 │   │   ├── Ternary Search
 │   │   ├── Jump Search
 │   │   └── Hashing
-│   ├── Sorting Algorithms
+│   ├── Sorting
 │   │   ├── Bubble Sort
 │   │   ├── Selection Sort
 │   │   ├── Insertion Sort
@@ -93,12 +100,12 @@ DSA
 │   │   ├── Cocktail Shaker Sort
 │   │   ├── Comb Sort
 │   │   └── Tim Sort
-│   ├── Divide and Conquer Algorithms
+│   ├── Divide and Conquer
 │   │   ├── Closest Pair
 │   │   ├── Convex Hull
 │   │   ├── Matrix Multiplication
 │   │   └── Strassen's Algorithm
-│   ├── Greedy Algorithms
+│   ├── Greedy
 │   │   ├── Activity Selection
 │   │   ├── Fractional Knapsack
 │   │   ├── Huffman Coding
@@ -118,7 +125,7 @@ DSA
 │   │   ├── Indirect Recursion
 │   │   ├── Nested Recursion
 │   │   └── Mutual Recursion
-│   ├── Backtracking Algorithms
+│   ├── Backtracking
 │   │   ├── N-Queens Problem
 │   │   ├── Sudoku Solver
 │   │   ├── Hamiltonian Cycle
@@ -149,7 +156,7 @@ DSA
 │   │   ├── Finite Automaton
 │   │   ├── Suffix Array
 │   │   └── Suffix Automaton
-│   ├── Mathematical Algorithms
+│   ├── Mathematical
 │   │   ├── Prime Numbers
 │   │   ├── Sieve of Eratosthenes
 │   │   ├── Euclidean Algorithm
@@ -165,7 +172,7 @@ DSA
 │   │   ├── Combination
 │   │   ├── Catalan Numbers
 │   │   └── Binomial Coefficients
-│   ├── Geometric Algorithms
+│   ├── Geometric
 │   │   ├── Point Representation
 │   │   ├── Line Representation
 │   │   ├── Convex Hull
@@ -173,7 +180,7 @@ DSA
 │   │   ├── Line Intersection
 │   │   ├── Polygon Triangulation
 │   │   └── Sweep Line Algorithm
-│   ├── Bitwise Algorithms
+│   ├── Bitwise
 │   │   ├── Bit Manipulation Basics
 │   │   ├── Bitwise Operators
 │   │   ├── Bitwise Operations on Integers
@@ -184,7 +191,7 @@ DSA
 │   │   ├── Detecting Duplicates
 │   │   ├── Finding Odd/Even Occurrences
 │   │   └── Bitwise Tricks
-│   ├── Graph Algorithms
+│   ├── Graph
 │   │   ├── Depth-First Search (DFS)
 │   │   ├── Breadth-First Search (BFS)
 │   │   ├── Dijkstra's Algorithm
@@ -197,11 +204,90 @@ DSA
 │   │   ├── Strongly Connected Components (SCC)
 │   │   ├── Articulation Points
 │   │   └── Bridges
-│   ├── Randomized Algorithms
-│   ├── Branch and Bound Algorithms
-│   ├── Randomized Algorithms
-│   ├── Approximation Algorithms
-│   └── Cryptographic Algorithms
-│   └── Approximation Algorithms
+│   ├── String Algorithms
+│   │   ├── Pattern Matching
+│   │   ├── String Searching
+│   │   ├── String Sorting
+│   │   ├── Longest Common Subsequence (LCS)
+│   │   ├── Longest Increasing Subsequence (LIS)
+│   │   ├── Knuth-Morris-Pratt (KMP) Algorithm
+│   │   ├── Rabin-Karp Algorithm
+│   │   ├── Boyer-Moore Algorithm
+│   │   ├── Z Algorithm
+│   │   └── Aho-Corasick Algorithm
+│   ├── Computational Geometry
+│   │   ├── Points and Lines
+│   │   │   ├── Point in Polygon
+│   │   │   ├── Line Intersection
+│   │   │   ├── Convex Hull
+│   │   │   ├── Closest Pair of Points
+│   │   │   └── Line Sweep Algorithms
+│   │   ├── Polygons
+│   │   │   ├── Polygon Area
+│   │   │   ├── Polygon Triangulation
+│   │   │   ├── Point Inside Polygon
+│   │   │   ├── Polygon Intersection
+│   │   │   ├── Polygon Convexity
+│   │   │   └── Polygon Partitioning
+│   │   ├── Circles
+│   │   │   ├── Circle Intersection
+│   │   │   ├── Tangents to Circles
+│   │   │   ├── Circle Covering
+│   │   │   └── Circle Packing
+│   │   ├── Voronoi Diagrams
+│   │   ├── Delaunay Triangulation
+│   │   ├── Line Segment Intersection
+│   │   ├── Sweepline Algorithms
+│   │   ├── Geometric Primitives
+│   │   ├── Geometric Transformations
+│   │   ├── Visibility Problems
+│   │   └── Geometric Applications in Graphics
+│   ├── Bit Manipulation
+│   │   ├── Bitwise Operators
+│   │   ├── Bitwise Operations on Integers
+│   │   ├── Bitwise Operations on Sets
+│   │   ├── Bitwise Operations on Strings
+│   │   ├── Bitwise Operations on Floating-Point Numbers
+│   │   ├── Bit Manipulation Tricks
+│   │   ├── Bit Hacks
+│   │   ├── Bitboards
+│   │   ├── Gray Code
+│   │   ├── Hamming Distance
+│   │   └── Popcount
+│   ├── Randomized
+│   │   ├── Randomized Quicksort
+│   │   ├── Randomized Selection
+│   │   ├── Las Vegas Algorithms
+│   │   ├── Monte Carlo Algorithms
+│   │   ├── Randomized Primality Testing
+│   │   ├── Randomized Minimum Cut
+│   │   ├── Random Sampling
+│   │   ├── Reservoir Sampling
+│   │   ├── Skip Lists
+│   │   ├── Randomized Binary Search Trees
+│   │   └── Randomized Incremental Algorithms
+│   ├── Approximation 
+│   │   ├── Approximation Schemes
+│   │   ├── Polynomial-Time Approximation Schemes (PTAS)
+│   │   ├── Fully Polynomial-Time Approximation Schemes (FPTAS)
+│   │   ├── Approximation Ratios and Bounds
+│   │   ├── Greedy Approximation Algorithms
+│   │   ├── Randomized Approximation Algorithms
+│   │   ├── Linear Programming Relaxations
+│   │   ├── Local Search Algorithms
+│   │   ├── Set Cover Approximation
+│   │   ├── Vertex Cover Approximation
+│   │   └── Traveling Salesman Problem Approximation
+│   └── Cryptographic
+│       ├── Symmetric Key Algorithms
+│       ├── Asymmetric Key Algorithms
+│       ├── Hash Functions
+│       ├── Message Authentication Codes (MAC)
+│       ├── Digital Signatures
+│       ├── Public Key Infrastructure (PKI)
+│       ├── Key Exchange Protocols
+│       ├── SSL/TLS Protocols
+│       ├── Cryptanalysis Techniques
+│       └── Side-Channel Attacks
 └── Practice Problems on DSA
 ```
