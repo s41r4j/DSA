@@ -29,3 +29,11 @@ Efficient searching algorithms are vital for various reasons:
 Overall, searching algorithms are fundamental tools in computer science and data processing. They enable efficient data retrieval, enhance problem-solving capabilities, and provide the basis for more complex algorithms and data structures.
 
 Understanding the definition and importance of searching algorithms lays the foundation for exploring specific searching techniques like linear search, binary search, and more. It empowers developers and data scientists to make informed decisions when implementing search functionalities and optimizing performance in various applications.
+
+<br>
+<br>
+
+## GOTO
+- [Follow Learning Path]()
+- [DSA/Algorithms/Searching/Linear Search](README.md)
+
