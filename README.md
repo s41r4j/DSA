@@ -27,7 +27,7 @@ The repository structure is as follows:
 - [Algorithms](Algorithms)
     - The `Algorithms` directory contains implementations and explanations of various algorithms like searching, sorting, graph traversal, dynamic programming, and more. Each algorithm is explained step-by-step with pseudocode, followed by programming language-specific code examples.
 
-- [Additional Resources](./Additional%20Resources)
+- [Additional Resources](Additional%20Resources)
     - This directory contains additional resources, references, and learning materials related to data structures and algorithms.
 
 Feel free to browse through the directories and explore the code implementations and explanations for each topic.
@@ -58,12 +58,12 @@ By following this learning path, you can gradually build your knowledge and skil
 
 Contributions to this repository are always welcome! If you have any improvements, bug fixes, or additional implementations to contribute, please feel free to submit a pull request. For major changes, it's best to open an issue first to discuss the proposed changes.
 
-Please make sure to follow the repository's [code of conduct](./CODE_OF_CONDUCT.md) and adhere to the [contributing guidelines](./CONTRIBUTING.md).
+Please make sure to follow the repository's [code of conduct](CODE_OF_CONDUCT.md) and adhere to the [contributing guidelines](CONTRIBUTING.md).
 
 
 <br>
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE). You are free to use, modify, and distribute the code and content of this repository, provided you give appropriate credit to the original authors.
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and content of this repository, provided you give appropriate credit to the original authors.
 
