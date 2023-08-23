@@ -21,10 +21,10 @@ This repository follows a structured organization to help you navigate and explo
 
 The repository structure is as follows:
 
-- [Data Structures](./Data%20Structures)
+- [Data Structures](Data%20Structures)
     - The `Data Structures` directory contains implementations and explanations of various data structures such as arrays, linked lists, stacks, queues, trees, and graphs. Each data structure is accompanied by detailed explanations, code examples, and best practices.
 
-- [Algorithms](./Algorithms)
+- [Algorithms](Algorithms)
     - The `Algorithms` directory contains implementations and explanations of various algorithms like searching, sorting, graph traversal, dynamic programming, and more. Each algorithm is explained step-by-step with pseudocode, followed by programming language-specific code examples.
 
 - [Additional Resources](./Additional%20Resources)
