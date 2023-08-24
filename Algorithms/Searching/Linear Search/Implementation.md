@@ -3,7 +3,7 @@
 In this section, we will provide programming language-specific code examples to implement the linear search algorithm. The implementation examples will help you understand how to apply the linear search algorithm in various programming languages.
 
 
-
+<!-- add index for codes - python, C & java -->
 
 <br>
 <br>
