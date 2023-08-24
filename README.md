@@ -1,6 +1,6 @@
 # [ Data Structures & Algorithms ] 
 
-Welcome to the Data Structures and Algorithms (DSA) repository! This repository is a collection of implementations, explanations, and examples for various data structures and algorithms. It is a comprehensive collection of data structures, algorithms, and related resources to help you enhance your understanding and proficiency in the field of computer science.
+Welcome to the Data Structures and Algorithms (DSA) repository! This repository is a collection of implementations, explanations, and examples for various data structures and algorithms. It is a comprehensive collection of data structures, algorithms and related resources to help you enhance your understanding and proficiency in the field of computer science.
 
 <br>
 
